@@ -16,3 +16,10 @@ document.querySelector("#nav-bar").addEventListener("click", function(event)
                     }
     }
 })
+
+function Welcome()
+{
+
+   let dt=Date()
+   alert("enter email in format:- abc@xyz.com")
+}
